@@ -18,9 +18,9 @@ pip install -r requirements.txt
 
 ### Dataset
 In the starter code of this repository, we have provided a shell script for downloading and extracting the dataset for this assignment. For Linux users, simply use the following command.
-    ```bash
-    bash ./get_dataset.sh
-    ```
+```bash
+bash ./get_dataset.sh
+```
 The shell script will automatically download the dataset and store the data in a folder called `hw3_data`. Note that this command by default only works on Linux. If you are using other operating systems, you should download the dataset from [this link](https://drive.google.com/file/d/1PDlObdTW6eLJiencXM5OdkSTFVSNvoOl/view?usp=sharing) and unzip the compressed file manually.
 
 > ⚠️ ***IMPORTANT NOTE*** ⚠️  
