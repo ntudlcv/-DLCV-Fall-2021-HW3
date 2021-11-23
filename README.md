@@ -1,7 +1,7 @@
 # DLCV-Fall-2021-HW3
 
 
-Please refer to [hw3_intro.pdf](https://drive.google.com/file/d/1x4a_j7v7w4FqFumNAe_f1hIE69oijvnt/view?usp=sharing) for HW3 details and rules. **Note that all of hw2 videos and introduction pdf files can be accessed in your NTU COOL.**
+Please refer to [hw3_intro.pdf](https://drive.google.com/file/d/1x4a_j7v7w4FqFumNAe_f1hIE69oijvnt/view?usp=sharing) for HW3 details and rules. **Note that all of hw3 videos and introduction pdf files can be accessed in your NTU COOL.**
 
 ## Usage
 To start working on this assignment, you should clone this repository into your local machine by using the following command.
