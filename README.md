@@ -6,7 +6,7 @@ Please refer to [hw3_intro.pdf](https://drive.google.com/file/d/1x4a_j7v7w4FqFum
 # Usage
 To start working on this assignment, you should clone this repository into your local machine by using the following command.
 ```bash
-    git clone https://github.com/DLCV-Fall-2021/hw3-<username>.git
+    git clone https://github.com/DLCV-Fall-2021/HW3-<username>.git
 ```
 Note that you should replace `<username>` with your own GitHub username.
 
